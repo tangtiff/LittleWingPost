@@ -1,0 +1,32 @@
+# ========== Unity Generated Folders ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Avoid ignoring the main project folders
+!Assets/
+!ProjectSettings/
+!Packages/
+
+# ========== User-specific Settings ==========
+UserSettings/
+.vscode/
+
+# ========== Auto-generated Files ==========
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# ========== Crash Reports ==========
+sysinfo.txt
